@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 24.08.24
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: Alan Samuel
+###  ROLL NO : 212223040012
+###  DEPARTMENT: CSE
 
 
 # EXPERIMENT--02-INTERFACING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-
@@ -78,12 +78,15 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 ## STM 32 CUBE PROGRAM :
 
+![Screenshot 2024-08-24 111938](https://github.com/user-attachments/assets/25b9ec94-e2d7-422f-ae41-0896e14a7b4a)
+![Screenshot 2024-08-24 111841](https://github.com/user-attachments/assets/e8cda8b7-d08d-430d-97a5-017d7ec4e5fe)
 
 
 ## Output  :
  
- 
- 
+ ![Screenshot 2024-08-24 112251](https://github.com/user-attachments/assets/6caf51b6-d26e-4026-b206-2344f4f00d7e)
+
+
  
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
